@@ -2,7 +2,7 @@
 #### Jupyter notebook
 #### By **Laura Abuko, Sharon Faith, Moureen Mungai and Kevin Odhiambo**
 ## Description
-The main objectives of the project were to build a model that can detect whether someone has heart disease and to determine the top features influencing the presence/absence of heart disease. Information from [this kaggle dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction) was used. Exploratory analysis and modelling were carried out to aid in achieving the objective.
+The main objectives of the project were to build a model that can detect whether someone has heart disease and to determine the top features influencing the presence/absence of heart disease. Information from [this kaggle dataset](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction) was used. Exploratory analysis and modelling were carried out to aid in achieving the objective. After testing a variety of models, the top 3 features were determined to be st_slope, chestpaintype and exerciseangina, and no model outperformed the recall (0.926) of the gradient boosting classifier with these hyperparameters: n_estimators 300, learning_rate 0.01, max_depth 2, that was trained on the top 3 features.
 
 
 ## Running the apps
