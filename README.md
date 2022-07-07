@@ -21,7 +21,7 @@ The main objectives of the project were to build a model that can detect whether
 
 
 ## Support and contact details
-Github accounts: Sharon-Faith, KevOdhiambo, mungaimoureen
+Github accounts: Sharon-Faith, KevOdhiambo, mungaimoureen, lauraabuko
 
 ### License
 *MIT License*
